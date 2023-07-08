@@ -14,4 +14,3 @@ Map<Integer,Integer> mp=new HashMap<Integer,Integer>();
     return new int[] {-1,-1};
     }
 }
-}
